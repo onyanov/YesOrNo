@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Да или нет</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Верно ли, что кенгуру может развивать скорость более 80 км/ч?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="next">Дальше</string>
+    <string name="zero">0</string>
+    <string name="sound">Настройки звука</string>
+    <string name="admob_publisher_id">a151f63f0b3a9d7</string>
+    <string name="play">Играть</string>
+    <string name="add">Добавить вопрос</string>
+    <string name="label_question">Текст вопроса</string>
+    <string name="label_answer">Правильный ответ</string>
+    <string name="label_comment">Объяснение</string>
+
+    <string name="error">* Обязательно для заполнения</string>
+    <string name="activity_start">Да или нет</string>
+    <string name="activity_add">Добавление вопроса</string>
+</resources>
